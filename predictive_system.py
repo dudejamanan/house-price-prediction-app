@@ -1,4 +1,4 @@
-import streamlit as st
+import house_price_app as st
 import numpy as np
 import pickle
 
